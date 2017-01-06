@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name      = "FastlaneDemo"
-s.version   = "1.0.3"
+s.version   = "1.0.4"
 s.summary   = "ESGI fastlane demo"
 s.homepage  = "https://github.com/ozonePowered/fastlane-demo-moc2-1"
 s.license   = { :type => "BSD", :file => "LICENSE" }
